@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/JiaxuanYou/HierTCN) 
+
 # Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems
 This repository is a Tensorflow implementation of HierTCN for Dynamic Recommender Systems.
 
